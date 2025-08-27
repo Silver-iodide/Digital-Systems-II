@@ -1,0 +1,61 @@
+# Compile of tb_sqrt.v was successful.
+# Compile of square_root_unit.v was successful.
+# Compile of subtractor.v was successful.
+# Compile of controller.v was successful.
+# Compile of N.v was successful.
+# Compile of square_root.v was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui work.tb_sqrt
+# vsim -gui work.tb_sqrt 
+# Start time: 10:58:17 on May 12,2025
+# Loading work.tb_sqrt
+# Loading work.square_root_unit
+# Loading work.controller
+# Loading work.N
+# Loading work.subtractor
+# Loading work.square_root
+run -all
+# Input=0x01, SqRt=0x1
+# Input=0x04, SqRt=0x2
+# Input=0x09, SqRt=0x3
+# Input=0x10, SqRt=0x4
+# Input=0x19, SqRt=0x5
+# Input=0x24, SqRt=0x6
+# Input=0x31, SqRt=0x7
+# Input=0x40, SqRt=0x8
+# Input=0x00, SqRt=0x0
+# Input=0x06, SqRt=0x2
+# Input=0x0d, SqRt=0x3
+# Input=0x15, SqRt=0x4
+# Input=0x1b, SqRt=0x5
+# Input=0x2c, SqRt=0x6
+# Input=0xe1, SqRt=0xf
+# Input=0xff, SqRt=0xf
+# ** Note: $finish    : D:/EEC180_LAB/lab5/test/tb_sqrt.v(37)
+#    Time: 12340 ps  Iteration: 3  Instance: /tb_sqrt
+# 1
+# Break in Module tb_sqrt at D:/EEC180_LAB/lab5/test/tb_sqrt.v line 37
+add wave -position end  sim:/tb_sqrt/InputVal
+add wave -position end  sim:/tb_sqrt/OutputSqrt
+restart -f
+run -all
+# Input=0x01, SqRt=0x1
+# Input=0x04, SqRt=0x2
+# Input=0x09, SqRt=0x3
+# Input=0x10, SqRt=0x4
+# Input=0x19, SqRt=0x5
+# Input=0x24, SqRt=0x6
+# Input=0x31, SqRt=0x7
+# Input=0x40, SqRt=0x8
+# Input=0x00, SqRt=0x0
+# Input=0x06, SqRt=0x2
+# Input=0x0d, SqRt=0x3
+# Input=0x15, SqRt=0x4
+# Input=0x1b, SqRt=0x5
+# Input=0x2c, SqRt=0x6
+# Input=0xe1, SqRt=0xf
+# Input=0xff, SqRt=0xf
+# ** Note: $finish    : D:/EEC180_LAB/lab5/test/tb_sqrt.v(37)
+#    Time: 12340 ps  Iteration: 3  Instance: /tb_sqrt
+# 1
+# Break in Module tb_sqrt at D:/EEC180_LAB/lab5/test/tb_sqrt.v line 37

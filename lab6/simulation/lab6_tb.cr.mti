@@ -1,0 +1,36 @@
+D:/EEC180_LAB/lab6/hdl/subtract_compare_unit.v {1 {vlog -work work -stats=none D:/EEC180_LAB/lab6/hdl/subtract_compare_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module subtract_compare_unit
+
+Top level modules:
+	subtract_compare_unit
+
+} {} {}} D:/EEC180_LAB/lab6/synthesis/signdiv.v {1 {vlog -work work -stats=none D:/EEC180_LAB/lab6/synthesis/signdiv.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module signdiv
+
+Top level modules:
+	signdiv
+
+} {} {}} D:/EEC180_LAB/lab6/test/lab6_tb.v {1 {vlog -work work -stats=none D:/EEC180_LAB/lab6/test/lab6_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module testsdiv
+
+Top level modules:
+	testsdiv
+
+} {} {}} D:/EEC180_LAB/lab6/hdl/output_unit.v {1 {vlog -work work -stats=none D:/EEC180_LAB/lab6/hdl/output_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module output_unit
+
+Top level modules:
+	output_unit
+
+} {} {}} D:/EEC180_LAB/lab6/hdl/control_unit.v {1 {vlog -work work -stats=none D:/EEC180_LAB/lab6/hdl/control_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}}

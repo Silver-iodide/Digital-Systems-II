@@ -1,0 +1,64 @@
+D:/EEC180/lab5_part2_3/hdl/N.v {1 {vlog -work work -stats=none D:/EEC180/lab5_part2_3/hdl/N.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module N
+
+Top level modules:
+	N
+
+} {} {}} D:/EEC180/lab5_part2_3/hdl/hex_decoder.v {1 {vlog -work work -stats=none D:/EEC180/lab5_part2_3/hdl/hex_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module hex_decoder
+
+Top level modules:
+	hex_decoder
+
+} {} {}} D:/EEC180/lab5_part2_3/hdl/square_root_unit.v {1 {vlog -work work -stats=none D:/EEC180/lab5_part2_3/hdl/square_root_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module square_root_unit
+
+Top level modules:
+	square_root_unit
+
+} {} {}} D:/EEC180/lab5_part2_3/hdl/square_root.v {1 {vlog -work work -stats=none D:/EEC180/lab5_part2_3/hdl/square_root.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module square_root
+
+Top level modules:
+	square_root
+
+} {} {}} D:/EEC180/lab5_part2_3/hdl/ram.v {1 {vlog -work work -stats=none D:/EEC180/lab5_part2_3/hdl/ram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} D:/EEC180/lab5_part2_3/hdl/controller.v {1 {vlog -work work -stats=none D:/EEC180/lab5_part2_3/hdl/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} D:/EEC180/lab5_part2_3/hdl/subtractor.v {1 {vlog -work work -stats=none D:/EEC180/lab5_part2_3/hdl/subtractor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module subtractor
+
+Top level modules:
+	subtractor
+
+} {} {}} D:/EEC180/lab5_part2_3/sqrt_top.v {1 {vlog -work work -stats=none D:/EEC180/lab5_part2_3/sqrt_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sqrt_top
+
+Top level modules:
+	sqrt_top
+
+} {} {}} D:/EEC180/lab5_part2_3/test/tb_sqrt_top.v {1 {vlog -work work -stats=none D:/EEC180/lab5_part2_3/test/tb_sqrt_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_sqrt_top
+
+Top level modules:
+	tb_sqrt_top
+
+} {} {}}

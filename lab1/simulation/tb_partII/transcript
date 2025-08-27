@@ -1,0 +1,29 @@
+vsim -gui work.tb_partII
+# vsim -gui work.tb_partII 
+# Start time: 21:11:52 on Apr 07,2025
+# Loading work.tb_partII
+# Loading work.partII
+# Loading work.dec_7seg_decoder
+add wave -position end  sim:/tb_partII/SW
+add wave -position end  sim:/tb_partII/HEX0
+add wave -position end  sim:/tb_partII/HEX1
+run -all
+# input = 0000, out_hex1 = 11000000, out_hex0 = 11000000
+# input = 0001, out_hex1 = 11000000, out_hex0 = 11111001
+# input = 0010, out_hex1 = 11000000, out_hex0 = 10100100
+# input = 0011, out_hex1 = 11000000, out_hex0 = 10110000
+# input = 0100, out_hex1 = 11000000, out_hex0 = 10011001
+# input = 0101, out_hex1 = 11000000, out_hex0 = 10010010
+# input = 0110, out_hex1 = 11000000, out_hex0 = 10000010
+# input = 0111, out_hex1 = 11000000, out_hex0 = 11111000
+# input = 1000, out_hex1 = 11000000, out_hex0 = 10000000
+# input = 1001, out_hex1 = 11000000, out_hex0 = 10011000
+# input = 1010, out_hex1 = 11111001, out_hex0 = 11000000
+# input = 1011, out_hex1 = 11111001, out_hex0 = 11111001
+# input = 1100, out_hex1 = 11111001, out_hex0 = 10100100
+# input = 1101, out_hex1 = 11111001, out_hex0 = 10110000
+# input = 1110, out_hex1 = 11111001, out_hex0 = 10011001
+# input = 1111, out_hex1 = 11111001, out_hex0 = 10010010
+# End time: 21:13:42 on Apr 07,2025, Elapsed time: 0:01:50
+# Errors: 0, Warnings: 0
+# Closing project D:/EEC180_LAB/lab1/simulation/tb_partII/partII.mpf

@@ -1,0 +1,74 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/EEC180_LAB/lab1/simulation/tb_partI
+vfull_adder
+!s110 1744655891
+!i10b 1
+!s100 QGQ78T7bD`FSoz`7F6[j^2
+IKMGXVPOPUaEX2gmoDPK981
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/EEC180_LAB/lab2/simulation/part3
+w1744047309
+8D:/EEC180_LAB/lab2/hdl/full_adder.v
+FD:/EEC180_LAB/lab2/hdl/full_adder.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1744655890.000000
+!s107 D:/EEC180_LAB/lab2/hdl/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab2/hdl/full_adder.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vgeneric_adder
+!s110 1744655890
+!i10b 1
+!s100 86V@STWPkEj04El0fQkMT0
+IQc`5DiZCQzPaNX9kNko[X1
+R0
+R1
+w1744593268
+8D:\EEC180_LAB\lab2\synthesis\part3\generic_adder.v
+FD:\EEC180_LAB\lab2\synthesis\part3\generic_adder.v
+L0 6
+R2
+r1
+!s85 0
+31
+!s108 1744655889.000000
+!s107 D:\EEC180_LAB\lab2\synthesis\part3\generic_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\EEC180_LAB\lab2\synthesis\part3\generic_adder.v|
+!i113 1
+R3
+R4
+vtb_partIII
+!s110 1744655892
+!i10b 1
+!s100 V7cJeeW7Dof069]iP^;LP3
+I5X]P`4OYi_5ObYa=b52Ya1
+R0
+R1
+w1744655881
+8D:\EEC180_LAB\lab2\test\tb_partIII.v
+FD:\EEC180_LAB\lab2\test\tb_partIII.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1744655891.000000
+!s107 D:\EEC180_LAB\lab2\test\tb_partIII.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\EEC180_LAB\lab2\test\tb_partIII.v|
+!i113 1
+R3
+R4
+ntb_part@i@i@i

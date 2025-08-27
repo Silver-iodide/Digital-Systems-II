@@ -1,0 +1,138 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/19.1
+vcontroller
+Z0 !s110 1747072681
+!i10b 1
+!s100 ^0>EaIDIE5cnW<Zc6^kch2
+I4C8]k8?2g3DHlUAW^EYBl0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/EEC180_LAB/lab5/simulation/part2_square_unit
+w1746576016
+8D:/EEC180_LAB/lab5/hdl/controller.v
+FD:/EEC180_LAB/lab5/hdl/controller.v
+L0 9
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1747072681.000000
+!s107 D:/EEC180_LAB/lab5/hdl/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab5/hdl/controller.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vN
+R0
+!i10b 1
+!s100 7m;lzkY<9k@Acf:eCRNzm2
+I]V;Iz=M?keRbUO6egce672
+R1
+R2
+w1746509995
+8D:/EEC180_LAB/lab5/hdl/N.v
+FD:/EEC180_LAB/lab5/hdl/N.v
+L0 11
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/EEC180_LAB/lab5/hdl/N.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab5/hdl/N.v|
+!i113 1
+R5
+R6
+n@n
+vsquare_root
+R0
+!i10b 1
+!s100 0EZ49A4bER@RF5MiD[njI3
+IimcVe]=>_a2eKcmTFnU2I0
+R1
+R2
+w1746522974
+8D:/EEC180_LAB/lab5/hdl/square_root.v
+FD:/EEC180_LAB/lab5/hdl/square_root.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/EEC180_LAB/lab5/hdl/square_root.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab5/hdl/square_root.v|
+!i113 1
+R5
+R6
+vsquare_root_unit
+R0
+!i10b 1
+!s100 <dR;4h_4AE1;e=KBEKA0K3
+I@zdFlj^;O8Oa6iZiV>_TQ3
+R1
+R2
+w1746566584
+8D:/EEC180_LAB/lab5/hdl/square_root_unit.v
+FD:/EEC180_LAB/lab5/hdl/square_root_unit.v
+L0 10
+R3
+r1
+!s85 0
+31
+Z7 !s108 1747072680.000000
+!s107 D:/EEC180_LAB/lab5/hdl/square_root_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab5/hdl/square_root_unit.v|
+!i113 1
+R5
+R6
+vsubtractor
+R0
+!i10b 1
+!s100 SUH=ZMHK0J0hLKIl6gjJ_2
+II9MQ?KeEYnoKdFEo2SFnE3
+R1
+R2
+w1746566682
+8D:/EEC180_LAB/lab5/hdl/subtractor.v
+FD:/EEC180_LAB/lab5/hdl/subtractor.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/EEC180_LAB/lab5/hdl/subtractor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab5/hdl/subtractor.v|
+!i113 1
+R5
+R6
+vtb_sqrt
+!s110 1747072680
+!i10b 1
+!s100 Kk?Va40b``JSaYJX[>7ME3
+IBCVYRT<T^HkRe0WXUjRE?3
+R1
+R2
+w1746607308
+8D:/EEC180_LAB/lab5/test/tb_sqrt.v
+FD:/EEC180_LAB/lab5/test/tb_sqrt.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/EEC180_LAB/lab5/test/tb_sqrt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab5/test/tb_sqrt.v|
+!i113 1
+R5
+R6

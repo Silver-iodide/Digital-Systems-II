@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/EEC180_LAB/lab2/simulation/part1
+vPE42
+Z0 !s110 1745098351
+!i10b 1
+!s100 dQ>3`OQjb]7i@U?NhgY8W3
+I]nbQm<ZNmW]jnJhQ9>kRj3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/EEC180_LAB/lab3/simulation/part2
+Z3 w1745095610
+Z4 8D:/EEC180_LAB/lab3/synthesis/Lab3_part2/Lab3_part2/PE83.v
+Z5 FD:/EEC180_LAB/lab3/synthesis/Lab3_part2/Lab3_part2/PE83.v
+L0 32
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1745098351.000000
+Z8 !s107 D:/EEC180_LAB/lab3/synthesis/Lab3_part2/Lab3_part2/PE83.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab3/synthesis/Lab3_part2/Lab3_part2/PE83.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@p@e42
+vPE83
+R0
+!i10b 1
+!s100 ?6DO`^mO[6o]CjBRW?kV?0
+Ie[J8bnA`GMYQ@TU2nRi2T2
+R1
+R2
+R3
+R4
+R5
+L0 7
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@p@e83
+vtb_partII
+R0
+!i10b 1
+!s100 nAkeZJ3hOl>QQ8k7SQE042
+I4c1BF_^O7HiRRjCD[?:Lh2
+R1
+R2
+w1745098331
+8D:/EEC180_LAB/lab3/test/part2/tb_partII.v
+FD:/EEC180_LAB/lab3/test/part2/tb_partII.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/EEC180_LAB/lab3/test/part2/tb_partII.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab3/test/part2/tb_partII.v|
+!i113 1
+R10
+R11
+ntb_part@i@i

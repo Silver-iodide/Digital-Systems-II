@@ -1,0 +1,117 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/EEC180_LAB/lab7/simulation/part1
+vconsumer
+Z0 !s110 1749262979
+!i10b 1
+!s100 ZbFa<2ZlF^Sgg;0X;F5C30
+IIfIl_mLFzh=<]Rb89:M380
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/EEC180_LAB/lab7/simulation/part2
+w1749232991
+8D:/EEC180_LAB/lab7/hdl/consumer.v
+FD:/EEC180_LAB/lab7/hdl/consumer.v
+L0 25
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1749262979.000000
+!s107 D:/EEC180_LAB/lab7/hdl/consumer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab7/hdl/consumer.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vfifo_async_clk
+Z7 !s110 1749262980
+!i10b 1
+!s100 CAO^m_2;F4bB]XSP<lg<M3
+IzLbjNjW0zON5j]]`]aP861
+R1
+R2
+w1749182707
+8D:/EEC180_LAB/lab7/hdl/fifo_async_clk.v
+FD:/EEC180_LAB/lab7/hdl/fifo_async_clk.v
+L0 28
+R3
+r1
+!s85 0
+31
+Z8 !s108 1749262980.000000
+!s107 D:/EEC180_LAB/lab7/hdl/fifo_async_clk.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab7/hdl/fifo_async_clk.v|
+!i113 1
+R5
+R6
+vproducer
+R0
+!i10b 1
+!s100 A4b`?z`^OPoj2@a;c`RzY1
+I0;K20^]`[3n2JSYFM=];j1
+R1
+R2
+w1749262972
+8D:/EEC180_LAB/lab7/hdl/producer.v
+FD:/EEC180_LAB/lab7/hdl/producer.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/EEC180_LAB/lab7/hdl/producer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab7/hdl/producer.v|
+!i113 1
+R5
+R6
+vsystem_with_FIFO
+R7
+!i10b 1
+!s100 _z_2Vz<SmWbfl[G@JN@:H0
+In6_Ec47W6>FhV6I76N<7C1
+R1
+R2
+w1749182618
+8D:/EEC180_LAB/lab7/synthesis/part2/system_with_FIFO.v
+FD:/EEC180_LAB/lab7/synthesis/part2/system_with_FIFO.v
+L0 7
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/EEC180_LAB/lab7/synthesis/part2/system_with_FIFO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab7/synthesis/part2/system_with_FIFO.v|
+!i113 1
+R5
+R6
+nsystem_with_@f@i@f@o
+vtb_system_with_FIFO
+R7
+!i10b 1
+!s100 :P^AEJZRak<<7SgV;DeRa3
+Ikm7_VXXKgoR2@M`5CIGUK1
+R1
+R2
+w1749262924
+8D:/EEC180_LAB/lab7/test/tb_system_with_FIFO.v
+FD:/EEC180_LAB/lab7/test/tb_system_with_FIFO.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/EEC180_LAB/lab7/test/tb_system_with_FIFO.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab7/test/tb_system_with_FIFO.v|
+!i113 1
+R5
+R6
+ntb_system_with_@f@i@f@o

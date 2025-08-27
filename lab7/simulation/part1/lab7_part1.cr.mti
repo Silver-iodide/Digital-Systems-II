@@ -1,0 +1,15 @@
+D:/EEC180_LAB/lab7/hdl/fifo.v {1 {vlog -work work -stats=none D:/EEC180_LAB/lab7/hdl/fifo.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fifo
+
+Top level modules:
+	fifo
+
+} {} {}} D:/EEC180_LAB/lab7/test/tb_part1.v {1 {vlog -work work -stats=none D:/EEC180_LAB/lab7/test/tb_part1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_part1
+
+Top level modules:
+	tb_part1
+
+} {} {}}

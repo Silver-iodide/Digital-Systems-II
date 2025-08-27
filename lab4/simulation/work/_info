@@ -1,0 +1,208 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/EEC180_LAB/lab3/simulation/part2
+XALU_Operation_sv_unit
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+V2f3DTVk<Gf2E1D2J1T:6g1
+r1
+!s85 0
+31
+!i10b 1
+!s100 QbhjZ[@QWOW^RAXT@BSM70
+I2f3DTVk<Gf2E1D2J1T:6g1
+!i103 1
+S1
+Z1 dD:/EEC180_LAB/lab4/simulation
+w1745398041
+8D:/EEC283_Project/Apr15_ALU/ALU_Operation.sv
+FD:/EEC283_Project/Apr15_ALU/ALU_Operation.sv
+L0 1
+Z2 OV;L;10.5b;63
+!s108 1745398070.000000
+!s107 D:/EEC283_Project/Apr15_ALU/ALU_Operation.sv|
+!s90 -reportprogress|300|-work|work|D:/EEC283_Project/Apr15_ALU/ALU_Operation.sv|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@a@l@u_@operation_sv_unit
+valu_tb
+R0
+DXx4 work 23 ALU_Transaction_sv_unit 0 22 ERf;H45cUlbZ41?LF1^I_2
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ^n9hkiQ1nX4RVc@HgRoDK0
+I:=HRzaK_8F0HK@B^e43F42
+!s105 ALU_Transaction_sv_unit
+S1
+R1
+Z6 w1745911110
+Z7 8D:/EEC283_Project/ALU Transaction ID System + Deep Copy/ALU_Transaction.sv
+Z8 FD:/EEC283_Project/ALU Transaction ID System + Deep Copy/ALU_Transaction.sv
+L0 54
+R2
+Z9 !s108 1745911115.000000
+Z10 !s107 D:/EEC283_Project/ALU Transaction ID System + Deep Copy/ALU_Transaction.sv|
+Z11 !s90 -reportprogress|300|-work|work|D:/EEC283_Project/ALU Transaction ID System + Deep Copy/ALU_Transaction.sv|
+!i113 1
+R3
+R4
+XALU_Transaction_sv_unit
+R0
+VERf;H45cUlbZ41?LF1^I_2
+r1
+!s85 0
+31
+!i10b 1
+!s100 _;BRCi=OHbQkcJlg?9V9D1
+IERf;H45cUlbZ41?LF1^I_2
+!i103 1
+S1
+R1
+R6
+R7
+R8
+L0 1
+R2
+R9
+R10
+R11
+!i113 1
+R3
+R4
+n@a@l@u_@transaction_sv_unit
+vcounter
+Z12 !s110 1745570564
+!i10b 1
+!s100 RfaXzU7b@NNWzMRU5?e`k0
+IC8=]J6ZVU7]=GM`19;=:43
+R5
+R1
+Z13 w1745570541
+Z14 8D:/EEC180_LAB/HW1/counter.v
+Z15 FD:/EEC180_LAB/HW1/counter.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z16 !s108 1745570563.000000
+Z17 !s107 D:/EEC180_LAB/HW1/counter.v|
+Z18 !s90 -reportprogress|300|-work|work|D:/EEC180_LAB/HW1/counter.v|
+!i113 1
+R3
+R4
+vcounter_tb
+R12
+!i10b 1
+!s100 VTKPODboB3O8M]z0L89D^2
+I2Z31zQ9@5KM:QH<dooGJj3
+R5
+R1
+R13
+R14
+R15
+L0 49
+R2
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R3
+R4
+vlab4_tb
+Z19 !s110 1745142261
+!i10b 1
+!s100 07hC8R0>UjWjG88o6PX9k2
+ILG0A1I5fRP;C1V?SMklWB3
+R5
+R1
+w1745142190
+8D:/EEC180_LAB/lab4/test/lab4_tb.v
+FD:/EEC180_LAB/lab4/test/lab4_tb.v
+L0 4
+R2
+r1
+!s85 0
+31
+Z20 !s108 1745142261.000000
+!s107 D:/EEC180_LAB/lab4/test/lab4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab4/test/lab4_tb.v|
+!i113 1
+R3
+R4
+vmealy_fsm
+R19
+!i10b 1
+!s100 CVgio`W4Ef4I=bQ[9`PI^3
+Ii;7`L=0[PQV4CIOYNZ^2o0
+R5
+R1
+w1745140962
+8D:/EEC180_LAB/lab4/synthesis/mealy_fsm.v
+FD:/EEC180_LAB/lab4/synthesis/mealy_fsm.v
+L0 1
+R2
+r1
+!s85 0
+31
+R20
+!s107 D:/EEC180_LAB/lab4/synthesis/mealy_fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab4/synthesis/mealy_fsm.v|
+!i113 1
+R3
+R4
+vprime
+Z21 !s110 1745564755
+!i10b 1
+!s100 ZKkWeH7gP`BIh==0LaBE;1
+IL=8`61ij_S3Pn>7:f]JXZ1
+R5
+R1
+Z22 w1745564737
+Z23 8D:/EEC180_LAB/HW1/prime.v
+Z24 FD:/EEC180_LAB/HW1/prime.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z25 !s108 1745564755.000000
+Z26 !s107 D:/EEC180_LAB/HW1/prime.v|
+Z27 !s90 -reportprogress|300|-work|work|D:/EEC180_LAB/HW1/prime.v|
+!i113 1
+R3
+R4
+vprime_tb
+R21
+!i10b 1
+!s100 A03miobE_XUfj4NoPaRbP3
+I6YgYH;FEDIKZd[E:@LcLz0
+R5
+R1
+R22
+R23
+R24
+L0 20
+R2
+r1
+!s85 0
+31
+R25
+R26
+R27
+!i113 1
+R3
+R4

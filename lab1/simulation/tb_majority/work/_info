@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/EEC180_LAB/ToolsSetup_export/known_good_project/simulation
+vmajority
+Z0 !s110 1743439826
+!i10b 1
+!s100 @Q1H9KA0Mgz8MiOzW1Gl62
+Ig?_fea2JW]cEI2n]AcdG83
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/EEC180_LAB/lab1/simulation/tb_majority
+w1743438221
+8D:/EEC180_LAB/lab1/synthesis/majority/majority.v
+FD:/EEC180_LAB/lab1/synthesis/majority/majority.v
+L0 6
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1743439826.000000
+!s107 D:/EEC180_LAB/lab1/synthesis/majority/majority.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab1/synthesis/majority/majority.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_majority
+R0
+!i10b 1
+!s100 X_d12VCS?1]Q03MhGo9dY0
+IjloBka0]6Y?nFU3bS>KzB2
+R1
+R2
+w1743438883
+8D:/EEC180_LAB/lab1/test/tb_majority.v
+FD:/EEC180_LAB/lab1/test/tb_majority.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/EEC180_LAB/lab1/test/tb_majority.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/EEC180_LAB/lab1/test/tb_majority.v|
+!i113 1
+R5
+R6
