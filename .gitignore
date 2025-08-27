@@ -1,0 +1,71 @@
+# 编译生成的文件
+*.o
+*.obj
+*.elf
+*.out
+*.map
+*.d
+*.su
+
+# 可执行文件 / 二进制文件
+*.exe
+*.bin
+*.hex
+*.a
+*.so
+*.dll
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.swp
+*.bak
+*~
+
+# IDE / 编辑器产生的文件
+.vscode/
+.idea/
+*.user
+*.suo
+
+# FPGA / 仿真工具输出
+*.jou
+*.str
+*.xsim
+*.wdb
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.ncd
+*.dcp
+
+# Quartus
+*.qpf
+*.qsf
+*.sof
+*.pof
+*.smsg
+*.rpt
+*.qws
+db/
+incremental_db/
+output_files/
+
+# Vivado
+*.xpr
+*.xise
+*.xdc
+*.bit
+*.mcs
+
+# 常见文档自动生成
+*.pdf
+*.aux
+*.toc
+*.log
+*.synctex.gz
+
