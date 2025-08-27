@@ -1,9 +1,0 @@
-D:/EEC180_LAB/lab3/synthesis/Lab3_part2/Lab3_part2/PE83.v {1 {vlog -work work -stats=none D:/EEC180_LAB/lab3/synthesis/Lab3_part2/Lab3_part2/PE83.v
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module PE83
--- Compiling module PE42
-
-Top level modules:
-	PE83
-
-} {} {}}
